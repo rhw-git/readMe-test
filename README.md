@@ -7,10 +7,14 @@ Create, Find, Share and Vote on your best recipes with the world!
 ## Table of Contents
 
   - [Contribution](#contribution)
+  - [Sneak Peek](#sneak peek)
   - [License](#license)
   - [Badges](#badges)
   - [GitHub](#github)
   - [Heroku](#heroku)
+
+## Sneak Peek
+
 
 ## Contribution
 
